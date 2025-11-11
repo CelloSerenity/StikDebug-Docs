@@ -1,5 +1,6 @@
+iloader allows us to create a pairing file for programs like StikDebug to talk to your device remotely. This pairing file is device-specific, time-specific and required to use StikDebug, otherwise StikDebug will not function correctly. 
 > [!WARNING]
-> Caution, if you update or reset your iDevice, your pairing file will expire and you will need to reimport it. This also occurs at random times. This is simply because of how Apple's software works, and there is nothing we can do at this point to fix it. This guide instructs you how to manually reimport your pairing file into SideStore with iloader.
+> Caution, if you update or reset your iDevice, your pairing file will expire and you will need to reimport it. This also occurs at random times. This is simply because of how Apple's software works, and there is nothing we can do at this point to fix it.
 
 ## Prerequisites
 ### On your Mac
