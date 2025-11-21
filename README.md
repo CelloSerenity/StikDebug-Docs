@@ -18,5 +18,5 @@ iloader allows us to create a pairing file for programs like StikDebug to talk t
 
 ## Importing your pairing file
 1. For best results, connect your iDevice to your computer via USB cable, but if your device appears wirelessly that works too.
-2. Click "Manage Pairing File".
-3. To the right of "StikDebug" and any other apps you wish, click "Place Pairing File". "Pairing file placed successfully!" should appear in green.
+2. Click `Manage Pairing File`.
+3. To the right of "StikDebug" and any other apps you wish, click `Place`. "Pairing file placed successfully!" should appear in green.
